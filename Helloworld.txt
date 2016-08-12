@@ -3,3 +3,7 @@ To make a folder within a folder MIKDIR (name of the folder)/(name of the new fo
 To see list LS
 To change directory CD name of the folder
 To move out a folder CD /
+To innitialize> git init
+Check status> git status
+Add a file> git add (file name)
+To commit> git commit -m :"YOUR MESSAGE"
