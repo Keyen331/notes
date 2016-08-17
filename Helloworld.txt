@@ -26,3 +26,32 @@ To innitialize> git init
 Check status> git status
 Add a file> git add (file name)
 To commit> git commit -m :"YOUR MESSAGE"
+
+html
+Head
+
+Body
+ header
+ footer
+
+ Elements
+
+ <p></p> //paragraph element
+
+</a> // closing tag
+
+<header></header> // navigation, logo
+
+<footer></footer> // copyright
+
+<div></div> //block element - start new lines
+
+<span></span> //inline elements
+<a></a>
+<img/>
+
+Attributes:
+
+<img src+"http://something.com/myimage.jpg"/> // put an image in it  
+
+<!-- comments -->
