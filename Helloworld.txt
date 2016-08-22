@@ -27,7 +27,8 @@ Check status> git status
 Add a file> git add (file name)
 To commit> git commit -m :"YOUR MESSAGE"
 
-html
+HTML
+
 Head
 
 Body
