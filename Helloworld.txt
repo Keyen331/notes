@@ -57,4 +57,9 @@ Attributes:
 
 <!-- comments -->
 
-CSS
+CSS/ Cascading Style Sheet
+
+3 ways to add an style to an element
+1. inline///style=""
+2. internal///<style></style> inside the header
+3.
