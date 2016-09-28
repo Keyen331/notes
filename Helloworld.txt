@@ -63,3 +63,22 @@ CSS/ Cascading Style Sheet
 1. inline///style=""
 2. internal///<style></style> inside the header
 3.
+
+////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Helpful Links:
+http://kellishouts.github.io/css-properties/
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+9/28/2016
+
+Mobile Design- an app design to fit in mobile devices | Example: Instagram
+Responsive Design- a technique used to allow the web page to fit on the size-screen of the device that is viewing it. | Example: Google
+Grid Design- boxes/grids 
+Media Queries- (BREAK POINTS in CSS) that tell your app to change  the screen while moving according to the screensize / desktop, mobile, tablet
+Example of MQ mobile- @ media 
+EM in CSS- relative measurement/ unit of measurement in css thatd adjuss to parent times 150% Use em in responsive design and pixels on static pages.
+PX to EM- Multiply by 1.5
+Pseudo Class Selector- used to defined a special state | Common: hover, focus, after, before.
+Specifity in CSS- to let your program know which part will be the dominator
