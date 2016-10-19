@@ -27,8 +27,9 @@ NaN
 var camelCase
 
 // = VS ==
-// = is for assignment
-// == is for comparing
+
+//= is for assignment
+//== is for comparing
 
 /* Boolean operators
 // ==
@@ -37,3 +38,25 @@ var camelCase
 
 Logical Operator
 // && : or
+
+//FUNCTIONS//
+//is an execute statement
+
+Anonymous function
+function (){
+  
+}
+
+function nameoffFunction (){
+  
+}
+
+//invoking functions
+name ofFunction();
+
+//parameters
+function hello (a, b) {
+  console.log(a + b);
+}
+
+hello(10, 11)
