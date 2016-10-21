@@ -60,3 +60,6 @@ function hello (a, b) {
 }
 
 hello(10, 11)
+
+Useful Websites
+http://slides.com/ifang/javascriptbasics#/0/20
