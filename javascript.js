@@ -26,40 +26,12 @@ NaN
 
 var camelCase
 
-// = VS ==
-
-//= is for assignment
-//== is for comparing
-
-/* Boolean operators
-// ==
-// !== not equal
-//
-
-Logical Operator
-// && : or
-
-//FUNCTIONS//
-//is an execute statement
-
-Anonymous function
-function (){
-  
-}
-
-function nameoffFunction (){
-  
-}
-
-//invoking functions
-name ofFunction();
-
-//parameters
-function hello (a, b) {
-  console.log(a + b);
-}
-
-hello(10, 11)
-
 Useful Websites
 http://slides.com/ifang/javascriptbasics#/0/20
+
+// Creating an Array
+var myArray = ['one', 2, 'seven', 'batman', true]
+
+function singingFork(){
+  if (true) {}
+}
